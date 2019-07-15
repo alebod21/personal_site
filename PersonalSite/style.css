@@ -1,0 +1,72 @@
+body{
+    /*Size Modifiers*/
+    margin: 0 0 0 0;
+
+}
+
+p{
+    /*Size modifiers*/
+    padding: 15px 15px 15px 15px;
+}
+
+h2{
+    padding: 50px 0 0 0;
+}
+
+
+.banner{
+    /*Size Modifiers*/
+    margin: 0 0 0 0;
+    height: 250px;
+    width: 100%;
+    
+    /*Color Modifiers*/
+    background-color: rgba(0, 141, 213, 1);
+
+    /*Text Modifiers*/
+    font-family: 'Roboto Slab', 'Serif';
+
+}
+
+.button{
+    cursor: pointer;
+    border: none;
+}
+
+.main{
+    /*Size Modifiers*/
+    margin: 0px 20px 0 20px;
+
+    /*Text Modifiers*/
+    color: rgba(255, 105, 120, 1);
+    font-family: 'Zilla Slab';
+
+}
+
+#name{
+    /*Size Modifiers*/
+    padding: 80px 0 100px 0;
+    position: relative;
+    height: 70px;
+
+    /*Color Modifiers*/
+    color: rgba(249, 246, 241, 1);
+
+    /*Text Modifiers*/
+    text-align: center;
+    vertical-align: middle;
+    font-size: 48px;
+
+}
+
+#menu{
+    /*Size Modifiers*/
+    padding: 30px 30px 30px 30px;
+    position: absolute;
+    height: 75px;
+    width: auto;
+    z-index: 1;
+    background-color: transparent;
+    color: rgba(249, 246, 241, 1);
+
+}
