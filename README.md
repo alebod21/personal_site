@@ -1,2 +1,2 @@
-# personal_site
+# Personal Site
 personal website for Alec Bodnar
