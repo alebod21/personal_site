@@ -59,14 +59,3 @@ h2{
 
 }
 
-#menu{
-    /*Size Modifiers*/
-    padding: 30px 30px 30px 30px;
-    position: absolute;
-    height: 75px;
-    width: auto;
-    z-index: 1;
-    background-color: transparent;
-    color: rgba(249, 246, 241, 1);
-
-}
